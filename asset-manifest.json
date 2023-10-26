@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Blackout/static/css/main.37472c73.css",
+    "main.js": "/Blackout/static/js/main.025f53f5.js",
+    "static/media/rice-wine.png": "/Blackout/static/media/rice-wine.a3b543df8f5eb812137e.png",
+    "static/media/beer.png": "/Blackout/static/media/beer.3ca53b9cad184d737d94.png",
+    "static/media/soju.png": "/Blackout/static/media/soju.bfe50d33484c10988b39.png",
+    "static/media/wine-bottle.png": "/Blackout/static/media/wine-bottle.3d0407483e374dc2a053.png",
+    "index.html": "/Blackout/index.html",
+    "main.37472c73.css.map": "/Blackout/static/css/main.37472c73.css.map",
+    "main.025f53f5.js.map": "/Blackout/static/js/main.025f53f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37472c73.css",
+    "static/js/main.025f53f5.js"
+  ]
+}
