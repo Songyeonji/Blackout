@@ -1,3 +1,3 @@
 # Blackout
 
-https://songyeonji.github.io/diary-calendar
+(https://songyeonji.github.io/Blackout/)https://songyeonji.github.io/Blackout/
